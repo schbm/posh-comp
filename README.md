@@ -1,2 +1,2 @@
 # posh-comp
-Compilation of 'useful' posh func's and scripts
+Compilation of 'useful' posh helpers.
