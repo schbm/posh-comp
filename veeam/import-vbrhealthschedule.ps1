@@ -1,3 +1,6 @@
+#Author: mas
+#Date: 29.11.21
+
 function Import-VbrHlthScheduleCsv {
     <#
     .Synopsis
