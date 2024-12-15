@@ -1,9 +1,6 @@
 # posh-comp
-Compilation of 'useful' posh helpers i wrote for work.
-
-> There is a possibility that some functions need some change to get them working because they are more or less directly copied from work.
-
-More may follow if i am not too lazy to edit them for public use.
+> There is a possibility that some functions need some change to get them working.
+> These can be used as entrance point for further usage.
 
 ## Windows
 ```powershell
